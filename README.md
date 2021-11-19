@@ -30,7 +30,7 @@
 <br />
 
 ---
-### dfs:
+### Github Status:
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
