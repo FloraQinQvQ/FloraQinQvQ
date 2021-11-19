@@ -9,6 +9,7 @@
 ### Connect with me:
 [<img align="left" alt="weimeng-qin-98a805175 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_floraqin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="floraqin_qvq | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tiktok.svg" />][tiktok]
 <br />
 
 ### Languages and Tools:
@@ -47,3 +48,4 @@
 
 [instagram]: https://instagram.com/_floraqin
 [linkedin]: https://www.linkedin.com/in/weimeng-qin-98a805175/
+[tiktok]: https://www.tiktok.com/@floraqin_qvq
