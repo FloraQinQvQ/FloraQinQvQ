@@ -19,12 +19,12 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 [<img align="left" alt="Postgresql" width="26px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />][linkedin]
-[<img align="left" alt="Docker" width="26px" src="255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" />][linkedin]
+[<img align="left" alt="Docker" width="26px" src="docker.png" />][linkedin]
 [<img align="left" alt="Csharp" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJP4P9gy4Xrm6F7B1kaHfJ9ac6eCN6S_O4a9KZxsSxnB1fLRcKQjI3kD0KwVVmRet1G4&usqp=CAU" />][linkedin]
-[<img align="left" alt="Terraform" width="29px" src="download (5).png" />][linkedin]
-[<img align="left" alt="AWS" width="26px" src="download (6).png" />][linkedin]
-[<img align="left" alt="Django" width="26px" src="images.png" />][linkedin]
-[<img align="left" alt="Jenkins" width="26px" src="download (7).png" />][linkedin]
+[<img align="left" alt="Terraform" width="29px" src="terraform.png" />][linkedin]
+[<img align="left" alt="AWS" width="26px" src="AWS.png" />][linkedin]
+[<img align="left" alt="Django" width="26px" src="Django.png" />][linkedin]
+[<img align="left" alt="Jenkins" width="26px" src="Jenkins.png" />][linkedin]
 <br />
 <br />
 
