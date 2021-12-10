@@ -35,7 +35,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-❗️ Hey, you are being lazy!
+👩‍💻 Working on cracking puzzles from [Advert of Code 2021](https://adventofcode.com/2021)
+
+🎄 Celebrating christmas
 <!--END_SECTION:activity-->
 
 </details>
